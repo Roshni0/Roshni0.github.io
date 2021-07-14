@@ -113,7 +113,7 @@ html {
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
-  color: black;
+  color: #fff;
   min-height: 500px;
   font-family: 'Ubuntu', sans-serif;
 }
@@ -145,7 +145,7 @@ html {
 .home .home-content a {
     display: inline-block;
     background: crimson;
-    color: #fff;
+    color: #000;
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
